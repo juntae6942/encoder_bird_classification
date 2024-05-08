@@ -1,10 +1,1 @@
-
-# encoder_bird_classification
-# encoder_bird_classification
-# encoder_bird_classification
-# encoder_bird_classification
-# encoder_bird_classification
-# encoder_bird_classification
-# encoder_bird_classification
-# encoder_bird_classification
-# encoder_bird_classification
+AutoEncoder to Augmentation for image classification
